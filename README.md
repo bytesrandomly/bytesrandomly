@@ -10,7 +10,7 @@
 
 ---
 
-🧠 <strong>Tools & IDEs</strong>
+⚙️ <strong>Tools & IDEs</strong>
 
 <p align="center">
   <a href="https://github.com/bytesrandomly">
