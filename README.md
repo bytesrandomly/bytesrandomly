@@ -1,8 +1,15 @@
-Hello, thanks for visiting my GitHub
+# randombytes
 
->I hope you enjoy the things you see here.
+<img src="https://img.shields.io/static/v1?label=Overview&message=randombytes&color=1f1f1f&style=for-the-badge&logo=GitHub" alt="Static GitHub badge">
 
-About me
-* I am a developer with many years of experience, always focused on delivering well-done projects with dedication. I’m constantly looking for ways to improve my code and foundation.
+> _“If you’re not on the network, do you even exist?”_
 
-> If you have any suggestions for any project, feel free to fork it.
+<p align="center">
+  <img src="https://i.pinimg.com/736x/7b/f7/4b/7bf74b0e8267d4f42e4ccd30b641961b.jpg" alt="Lain" width="420"/>
+</p>
+
+---
+
+🧠 **Linguagens**
+
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
