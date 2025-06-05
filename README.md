@@ -1,4 +1,4 @@
-<h1> randombytes </h1>h1
+<h1> randombytes </h1>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=randombytes&color=1f1f1f&style=for-the-badge&logo=GitHub" alt="Static GitHub badge">
 
