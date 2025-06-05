@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/bytesrandomly">
-    <img src="https://skillicons.dev/icons?i=g=idea" />
+    <img src="https://skillicons.dev/icons?i=idea" />
   </a>
 </p>
 
