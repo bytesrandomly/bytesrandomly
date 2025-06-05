@@ -10,11 +10,11 @@
 
 ---
 
-🧠 <strong>Linguagens</strong>
+🧠 <strong>Tools & IDEs</strong>
 
 <p align="center">
   <a href="https://github.com/bytesrandomly">
-    <img src="https://skillicons.dev/icons?i=idea" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode" />
   </a>
 </p>
 
