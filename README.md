@@ -13,7 +13,9 @@
 🧠 <strong>Linguagens</strong>
 
 <p align="center">
-  <a href="[https](https://github.com/bytesrandomly)">
-    <img src="https://skillicons.dev/icons?i=java&theme=light" />
+  <a href="https://github.com/bytesrandomly">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" />
   </a>
 </p>
+
+🧠 <strong>Linguagens</strong>
