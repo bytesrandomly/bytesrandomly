@@ -14,6 +14,6 @@
 
 <p align="center">
   <a href="[https](https://github.com/bytesrandomly)">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=java&theme=light" />
   </a>
 </p>
