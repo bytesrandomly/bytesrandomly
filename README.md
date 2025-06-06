@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/bytesrandomly">
-    <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/Java-icon.png" />
-    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/Java-icon.png" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </a>
 </p>
