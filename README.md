@@ -22,7 +22,7 @@
 
 <p align="center">
     <a href="https://github.com/bytesrandomly">
-    <img src="https://skillicons.dev/icons?i=js,java&time=light" />
+    <img src="https://skillicons.dev/icons?i=js,java&theme=light" />
   </a>
 </p>
 
