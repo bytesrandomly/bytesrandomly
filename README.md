@@ -1,4 +1,4 @@
-<p> alex </p>
+<p> <strong> alex </strong> </p>
 
 <p align="center">
     <a href="https://github.com/bytesrandomly">
