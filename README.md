@@ -28,24 +28,23 @@
 
 ---
 
-<table>
+<table align="center" cellpadding="0" cellspacing="10">
   <tr>
     <td>
       <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api?username=bytesrandomly&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
+        alt="GitHub Stats"
       />
     </td>
     <td>
       <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytesrandomly&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
+        alt="GitHub Top Languages"
       />
     </td>
   </tr>
 </table>
+
 
 
 
