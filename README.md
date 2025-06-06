@@ -21,11 +21,8 @@
 🧠 <strong>Langs</strong>
 
 <p align="center">
-  <a href="https://github.com/bytesrandomly">
-    <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/Java-icon.png" />
-  </a>
     <a href="https://github.com/bytesrandomly">
-    <img src="https://skillicons.dev/icons?i=idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,java&light" />
   </a>
 </p>
 
