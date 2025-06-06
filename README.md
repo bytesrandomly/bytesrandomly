@@ -20,16 +20,12 @@
 
 🧠 <strong>Langs</strong>
 
-<h2>🧠 <strong>Langs</strong></h2>
-
-<h2>🧠 <strong>Langs</strong></h2>
-
 <div align="center">
   <a href="https://github.com/bytesrandomly" style="display:inline-block; margin: 0 10px;">
     <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/Java-icon.png" alt="Java" />
   </a>
   <a href="https://github.com/bytesrandomly" style="display:inline-block; margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=js" />
   </a>
 </div>
 
