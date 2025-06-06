@@ -20,14 +20,17 @@
 
 🧠 <strong>Langs</strong>
 
-<div align="center">
-  <a href="https://github.com/bytesrandomly" style="display:inline-block; margin: 0 10px;">
-    <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/Java-icon.png" alt="Java" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/bytesrandomly" style="display:inline-block; margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=js"/>
+<div align="center" style="white-space: nowrap;">
+  <div style="display: inline-block; margin: 0 10px;">
+    <a href="https://github.com/bytesrandomly">
+      <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/Java-icon.png" alt="Java" />
+    </a>
+  </div>
+  <div style="display: inline-block; margin: 0 10px;">
+    <a href="https://github.com/bytesrandomly">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    </a>
+  </div>
 </div>
 
 
