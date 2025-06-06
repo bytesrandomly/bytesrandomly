@@ -18,6 +18,8 @@
   </a>
 </p>
 
+---
+
 🧠 <strong>Langs</strong>
 
 <p align="center">
