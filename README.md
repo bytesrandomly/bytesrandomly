@@ -18,4 +18,10 @@
   </a>
 </p>
 
-🧠 <strong>Linguagens</strong>
+🧠 <strong>Langs</strong>
+
+<p align="center">
+  <a href="https://github.com/bytesrandomly">
+    <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/Java-icon.png" />
+  </a>
+</p>
