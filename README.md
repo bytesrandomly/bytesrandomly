@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://github.com/bytesrandomly" style="display:inline-block; margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=js/>
+    <img src="https://skillicons.dev/icons?i=js"/>
 </div>
 
 
