@@ -1,54 +1,9 @@
-<p> <strong> alex </strong> </p>
+## Alex
 
-<p align="center">
-    <a href="https://github.com/bytesrandomly">
-    <img src="https://img.shields.io/static/v1?label=Overview&message=randombytes&color=1f1f1f&style=for-the-badge&logo=GitHub" alt="Github">
-  </a>
-</p>
+> Hello!
 
-> _“If you’re not on the network, do you even exist?”_
+I began programming as a hobby when I was **10 years old**, back in **2019**. Over time, I fell in love with **Java**, which has since become the language I'm **most skilled** in. While Java is my main focus, I'm also familiar with other **high-level languages** and constantly work to improve my **problem-solving skills**. I'm committed to strengthening my **weaknesses** and building on my **strengths**, both as a **developer** and as a **person**.
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/7b/f7/4b/7bf74b0e8267d4f42e4ccd30b641961b.jpg" alt="Lain"/>
-</p>
+ I'm always eager to **explore new challenges**, but I believe in starting with a **strong foundation**. I aim to avoid **basic mistakes**, support others whenever I can, and never hesitate to **ask for help** 
 
----
-
-⚙️ <strong>Tools & IDEs</strong>
-
-<p align="center">
-  <a href="https://github.com/bytesrandomly">
-    <img src="https://skillicons.dev/icons?i=idea,vscode" />
-  </a>
-</p>
-
-🧠 <strong>Langs</strong>
-
-<p align="center">
-    <a href="https://github.com/bytesrandomly">
-    <img src="https://skillicons.dev/icons?i=js,java&theme=light" />
-  </a>
-</p>
-
----
-
-<table align="center" cellpadding="0" cellspacing="10">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=bytesrandomly&theme=dark&hide_border=false&include_all_commits=true"
-        alt="GitHub Stats"
-      />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-    <a href="https://github.com/bytesrandomly">
-    <img src="https://img.shields.io/static/v1?label=Overview&message=randombytes.&color=1f1f1f&style=for-the-badge&logo=Discord" alt="Discord">
-  </a>
-</p>
-
-
-
-
+> If you’d like to learn more about me, feel free to check out my [Twitter](https://x.com/coisas) or my [RandomBytes website](https://youtube.com).
