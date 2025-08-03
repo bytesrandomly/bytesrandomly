@@ -6,4 +6,4 @@ I began programming as a hobby when I was __10 years old__, back in __2019__. Ov
 
  I'm always eager to __explore new challenges__, but I believe in starting with a __strong foundation__. I aim to avoid __basic mistakes__, support others whenever I can, and never hesitate to __ask for help__ 
 
-> If you’d like to learn more about me, feel free to check out my [Twitter](https://x.com/coisas) or my [RandomBytes website](https://youtube.com).
+> If you’d like to learn more about me, feel free to check out my [Twitter]([https://x.com/coisas](https://x.com/AlexVierOliveir)).
