@@ -8,6 +8,4 @@ I'm always eager to **explore new challenges**, but I believe in starting with a
 
 > My LinkedIn: [@alex](https://www.linkedin.com/in/alexandre-vieira-de-oliveira/).
 
-> If you’d like to learn more about me, feel free to check out my [Twitter](https://x.com/AlexVierOliveir).
-
 > If you want to get in touch, send an [Email](mailto:alex.vieir.oliveira@gmail.com).
